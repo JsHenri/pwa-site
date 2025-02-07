@@ -16,6 +16,11 @@ export const TopHeader = styled.div`
         color: #ffffff;
     }
 
+    img{
+        height: 40px;
+        width: 40px;
+    }
+
 `
 
 export const Container = styled.div`

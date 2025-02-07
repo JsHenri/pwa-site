@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useEffect, useRef, useState } from "react"
-import Logo from "../../assets/logo.svg"
+import Logo from "../../assets/movie-icon-logo.svg"
 import { TopHeader, Container } from "./styles"
 
 function Header({movies, setFilteredMovies}){
@@ -40,7 +40,6 @@ function Header({movies, setFilteredMovies}){
         <>
             <TopHeader>
                 <img src={Logo} alt="logo"/>
-                <p>Test</p>
             </TopHeader>
             <Container>
                 <h1>Lord of the Rings Movies</h1>
