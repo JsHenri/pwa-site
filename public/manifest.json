@@ -461,8 +461,20 @@
 ],
 "screenshots": [
     {
-        "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
-        "sizes": "2880x1800",
+        "src": "images/screenshot.png",
+        "sizes": "1429x683",
+        "type": "image/png",
+        "description": "A screenshot of the home page"
+    },
+    {
+        "src": "images/screenshot1.png",
+        "sizes": "720x1449",
+        "type": "image/png",
+        "description": "A screenshot of the home page"
+    },
+    {
+        "src": "images/screenshot2.png",
+        "sizes": "1842x874",
         "type": "image/png",
         "description": "A screenshot of the home page"
     }
