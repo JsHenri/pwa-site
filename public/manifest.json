@@ -461,19 +461,19 @@
 ],
 "screenshots": [
     {
-        "src": "images/screenshot.png",
+        "src": "images/app-screenshot.png",
         "sizes": "1429x683",
         "type": "image/png",
         "description": "A screenshot of the home page"
     },
     {
-        "src": "images/screenshot1.png",
+        "src": "images/app-screenshot1.png",
         "sizes": "720x1449",
         "type": "image/png",
         "description": "A screenshot of the home page"
     },
     {
-        "src": "images/screenshot2.png",
+        "src": "images/app-screenshot2.png",
         "sizes": "1842x874",
         "type": "image/png",
         "description": "A screenshot of the home page"
